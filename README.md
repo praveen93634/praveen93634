@@ -46,7 +46,7 @@
 
 ### Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/praveen-kumar-4ba09b291/))  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)]([https://instagram.com/your-handle](https://www.instagram.com/___.praveen._x/?__pwa=1))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveen-kumar-4ba09b291/)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/___.praveen._x/?__pwa=1)
 
 ---
