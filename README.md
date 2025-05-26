@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently improving my skills in **Data Structures & Algorithms**
 - 👨‍💻 I have 1 year of experience as a **Full Stack Developer (MEAN Stack)**  
-- 🚀 Building AI-powered projects to explore microservices and cloud deployment  
 - 📫 How to reach me: **praveenramesh5267@gmail.com**
 
 ---
@@ -29,7 +28,6 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=fff)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
@@ -48,7 +46,7 @@
 
 ### Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/your-handle)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/praveen-kumar-4ba09b291/))  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)]([https://instagram.com/your-handle](https://www.instagram.com/___.praveen._x/?__pwa=1))
 
 ---
