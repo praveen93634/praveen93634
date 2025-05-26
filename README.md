@@ -39,15 +39,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praveenkumar&show_icons=true&theme=radical" alt="Praveen's GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=praveenkumar&theme=radical" alt="GitHub Streak" />
-</p>
-
----
 
 ### ⚡ Fun Fact
 
