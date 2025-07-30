@@ -4,9 +4,8 @@
 ---
 
 ### 🧑‍💻 About Me
-- 👨‍💻 [My portfolio](https://praveenresumeportfolio.netlify.app/)
 - 🌱 I’m currently improving my skills in **Data Structures & Algorithms**
-- 👨‍💻 I have 1+ year of experience as a **Full Stack Developer (MEAN Stack)**  
+- 👨‍💻 a experienced **Full Stack Developer (MEAN Stack)**  
 - 📫 How to reach me: **praveenramesh5267@gmail.com**
 
 ---
