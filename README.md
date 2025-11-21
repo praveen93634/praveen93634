@@ -35,7 +35,6 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white)
 
 ---
-![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats/praveenkumar890?theme=dark&template=minimal)
 ## ⚡ Fun Fact
 
 > I believe in growing **1% every day** 🚀 and love working on real-world projects that challenge my comfort zone.
