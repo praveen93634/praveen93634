@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm Praveen Kumar</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+# Hi 👋, I'm Praveen Kumar
+### A passionate Full Stack Developer from India
 
 ---
 
-### 🧑‍💻 About Me
-- 🌱 I’m currently improving my skills in **Data Structures & Algorithms**
-- 👨‍💻 a experienced **Full Stack Developer (MEAN Stack)**  
-- 📫 How to reach me: **praveenramesh5267@gmail.com**
+## 🧑‍💻 About Me
+* 🌱 I’m currently improving my skills in **Data Structures & Algorithms**.
+* 👨‍💻 I'm an experienced **Full Stack Developer (MEAN Stack)**.
+* 📫 How to reach me: `praveenramesh5267@gmail.com`
 
 ---
 
-### 💻 Languages I Know
+## 💻 Languages I Know
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
@@ -21,7 +21,7 @@
 
 ---
 
-### 🛠️ Tools & Technologies I Use
+## 🛠️ Tools & Technologies I Use
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff)
@@ -36,16 +36,12 @@
 
 ---
 
-
-### ⚡ Fun Fact
+## ⚡ Fun Fact
 
 > I believe in growing **1% every day** 🚀 and love working on real-world projects that challenge my comfort zone.
 
 ---
 
-### Let's Connect!
-
+## Let's Connect!
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/___.praveen._x/?__pwa=1)
-
----
